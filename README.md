@@ -1,1 +1,2 @@
-# ranadheer314.github.io
+# blog
+This is my blog about machine learning projects 
